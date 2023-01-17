@@ -1,0 +1,73 @@
+<svg class="sbc-svg-icon" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 71 71" enable-background="new 0 0 71 71" xml:space="preserve">
+<g id="Grupo_668" transform="translate(-17.5 -38.5)">
+	<g id="Icono_Mvl" transform="translate(28.845 58.506)">
+		<g id="Grupo_458" transform="translate(2.86 1.647)">
+			<path id="Trazado_676" fill="#191919" stroke="#191919" d="M50.8,9.6L17.6,28.8L-8.1,13.9L25-5.3L50.8,9.6z"/>
+			<g>
+				<defs>
+					<polygon id="SVGID_1_" points="50.8,9.6 17.6,28.8 -8.1,13.9 25,-5.3 					"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g id="Grupo_457" transform="translate(0)" clip-path="url(#SVGID_2_)">
+					<path id="Trazado_677" fill="#191919" stroke="#191919" stroke-linejoin="round" d="M50.8,9.6L17.6,28.8L-8.1,13.9L25-5.3
+						L50.8,9.6z"/>
+				</g>
+			</g>
+			<path id="Trazado_679" fill="#191919" stroke="#191919" stroke-linejoin="round" d="M50.8,9.6L17.6,28.8L-8.1,13.9L25-5.3
+				L50.8,9.6z"/>
+		</g>
+		<g id="Grupo_460" transform="translate(35.138 4.113)">
+			<g>
+				<defs>
+					<polygon id="SVGID_3_" points="12.6,-0.3 11.2,0.5 4.2,-3.6 5.5,-4.4 					"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  overflow="visible"/>
+				</clipPath>
+				<g id="Grupo_459" transform="translate(0 0)" clip-path="url(#SVGID_4_)">
+					<path id="Trazado_680" fill="#FFFFFF" stroke="#191919" stroke-width="0.25" d="M12.6-0.3l-1.3,0.8l-7-4.1l1.3-0.8L12.6-0.3z"
+						/>
+				</g>
+			</g>
+		</g>
+		<path id="Trazado_682" fill="#FFFFFF" stroke="#191919" stroke-linejoin="round" d="M53.6,11.2L20.5,30.5l0,0l-2.8,1.6
+			c-1.7,0.9-3.8,0.9-5.5,0L-8,20.4l0,0l0-3.2c-0.6,0.3-1.1,0.9-1.1,1.6l0,0l0,4.2l0,0c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1s0,0.1,0,0.1
+			c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1s0,0.1,0.1,0.1c0,0,0,0.1,0.1,0.1c0,0,0.1,0.1,0.1,0.1c0,0,0,0.1,0.1,0.1
+			c0,0,0.1,0.1,0.1,0.1c0,0,0,0,0.1,0.1c0,0,0.1,0.1,0.2,0.1c0,0,0,0,0.1,0.1c0.1,0.1,0.2,0.1,0.3,0.2l0,0l20.2,11.7
+			c1.7,0.9,3.8,0.9,5.5,0l2.8-1.6l0,0l33.2-19.3L53.6,11.2z"/>
+		<path id="Trazado_683" fill="#FFFFFF" stroke="#191919" stroke-linejoin="round" d="M57.5,8c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1
+			c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1,0-0.1c0,0,0-0.1-0.1-0.1s0-0.1-0.1-0.1S57.2,7.1,57.2,7
+			c0,0,0-0.1-0.1-0.1c0,0-0.1-0.1-0.1-0.1c0,0,0-0.1-0.1-0.1s-0.1-0.1-0.1-0.1c0,0-0.1,0-0.1-0.1c-0.1-0.1-0.2-0.1-0.3-0.2l0,3.2
+			l-2.8,1.6l0,4.2l2.8-1.6c0.6-0.3,1.1-0.9,1.1-1.6l0,0C57.5,7.5,57.5,12.7,57.5,8L57.5,8z"/>
+		<g id="Grupo_461" transform="translate(26.843)">
+			<path id="Trazado_684" fill="#FFFFFF" stroke="#191919" d="M29.6,6.4c0.9,0.3,1.4,1.3,1.1,2.1c-0.2,0.5-0.6,0.9-1,1.1l-2.8,1.6
+				L1-3.7l2.8-1.6c1.7-0.9,3.8-0.9,5.5,0L29.6,6.4z M19.5,4.6l1.3-0.8l-7-4.1l-1.3,0.8L19.5,4.6z"/>
+			<path id="Trazado_685" fill="#FFFFFF" stroke="#191919" stroke-linejoin="round" d="M29.6,6.4c0.9,0.3,1.4,1.3,1.1,2.1
+				c-0.2,0.5-0.6,0.9-1,1.1l-2.8,1.6L1-3.7l2.8-1.6c1.7-0.9,3.8-0.9,5.5,0L29.6,6.4z M19.5,4.6l1.3-0.8l-7-4.1l-1.3,0.8L19.5,4.6z"
+				/>
+		</g>
+		<g id="Grupo_463" transform="translate(0.032 15.573)">
+			<path id="Trazado_686" fill="#FFFFFF" stroke="#191919" d="M-8.1,1.6L-5.3,0l25.8,14.9l-2.8,1.6c-1.7,0.9-3.8,0.9-5.5,0L-8.1,4.8
+				C-9,4.5-9.4,3.6-9.1,2.7C-9,2.2-8.6,1.8-8.1,1.6z"/>
+			<g>
+				<defs>
+					<path id="SVGID_5_" d="M-8.1,1.6L-5.3,0l25.8,14.9l-2.8,1.6c-1.7,0.9-3.8,0.9-5.5,0L-8.1,4.8C-9,4.5-9.4,3.6-9.1,2.7
+						C-9,2.2-8.6,1.8-8.1,1.6z"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  overflow="visible"/>
+				</clipPath>
+				<g id="Grupo_462" transform="translate(0)" clip-path="url(#SVGID_6_)">
+					<path id="Trazado_687" fill="#FFFFFF" stroke="#191919" stroke-linejoin="round" d="M-8.1,1.6L-5.3,0l25.8,14.9l-2.8,1.6
+						c-1.7,0.9-3.8,0.9-5.5,0L-8.1,4.8C-9,4.5-9.4,3.6-9.1,2.7C-9,2.2-8.6,1.8-8.1,1.6z"/>
+				</g>
+			</g>
+			<path id="Trazado_689" fill="#FFFFFF" stroke="#191919" stroke-linejoin="round" d="M-8.1,1.6L-5.3,0l25.8,14.9l-2.8,1.6
+				c-1.7,0.9-3.8,0.9-5.5,0L-8.1,4.8C-9,4.5-9.4,3.6-9.1,2.7C-9,2.2-8.6,1.8-8.1,1.6z"/>
+		</g>
+	</g>
+</g>
+</svg>
